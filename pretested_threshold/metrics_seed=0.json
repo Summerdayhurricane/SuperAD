@@ -1,0 +1,26 @@
+{
+    "can": {
+        "best_thre": 0.2095947265625
+    },
+    "fabric": {
+        "best_thre": 0.1605224609375
+    },
+    "fruit_jelly": {
+        "best_thre": 0.1634521484375
+    },
+    "rice": {
+        "best_thre": 0.1646728515625
+    },
+    "vial": {
+        "best_thre": 0.16357421875
+    },
+    "wallplugs": {
+        "best_thre": 0.1829833984375
+    },
+    "walnuts": {
+        "best_thre": 0.2266845703125
+    },
+    "sheet_metal": {
+        "best_thre": 0.1805419921875
+    }
+}
